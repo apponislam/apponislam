@@ -21,7 +21,7 @@
 [![website](./img/globe-light.svg)](https://github.com/apponislam)
 [![website](./img/globe-dark.svg)](https://github.com/apponislam)
 
-![Visitor Count](https : //profile-counter.glitch.me/apponislam/count.svg)
+Commit Count / Daily Streak / Language Used:
 
 ### Languages and Tools:
 
