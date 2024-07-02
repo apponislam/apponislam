@@ -4,12 +4,11 @@
 
 ## I'm Appon Islam, I'm a professional WEB Developer
 
--   🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
--   🌱 I’m currently learning everything 🤣
--   👯 I’m looking to collaborate with other content creators
--   🥅 2022 Goals: Learn more about web3
--   ⚡ Fun fact: I love to draw and play guitar / drums
--   😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
+-   I'm a web developer
+-   Fully Pixel Perfect Design
+-   I worked on react application.
+-   I can work on Authentication with firebase
+-   Node Js for backend development
 
 ### Connect with me:
 
