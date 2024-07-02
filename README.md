@@ -22,7 +22,8 @@
 [![website](./img/globe-dark.svg)](https://github.com/apponislam)
 
 ![Your Apponislam GitHub stats](https://github-readme-stats.vercel.app/api?username=apponislam&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apponislam&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apponislam&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 # GitHub Activity Overview
 
@@ -30,7 +31,7 @@
 
 # GitHub Contributions
 
-![Your Name's GitHub Contributions](https://github-contributions.now.sh/user?username=apponislam)
+![Your Name's GitHub Contributions](https://github-contributions.now.sh/user?username=apponislam) -->
 
 # Most Used Languages
 
