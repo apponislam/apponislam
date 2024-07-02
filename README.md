@@ -22,7 +22,7 @@
 [![website](./img/globe-dark.svg)](https://github.com/apponislam)
 
 ![Your Apponislam GitHub stats](https://github-readme-stats.vercel.app/api?username=apponislam&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=apponislam)](https://git.io/streak-stats)
+![Your Apponislam GitHub stats](https://github-readme-stats.vercel.app/api?username=apponislam&show_icons=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apponislam&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools:
