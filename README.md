@@ -21,6 +21,8 @@
 [![website](./img/globe-light.svg)](https://github.com/apponislam)
 [![website](./img/globe-dark.svg)](https://github.com/apponislam)
 
+![Visitor Count](https : //profile-counter.glitch.me/apponislam/count.svg)
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
