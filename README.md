@@ -24,6 +24,22 @@
 ![Your Apponislam GitHub stats](https://github-readme-stats.vercel.app/api?username=apponislam&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apponislam&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+# GitHub Activity Overview
+
+![Your Name's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=apponislam&theme=github)
+
+# GitHub Contributions
+
+![Your Name's GitHub Contributions](https://github-contributions.now.sh/user?username=apponislam)
+
+# Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apponislam&layout=compact&theme=radical)
+
+# GitHub Profile Views
+
+![](https://komarev.com/ghpvc/?username=apponislam&color=blue)
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
