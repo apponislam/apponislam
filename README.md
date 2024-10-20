@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/appon2003" target="_blank"><img src="https://img.shields.io/twitter/follow/appon2003?logo=twitter&style=for-the-badge" alt="appon2003" /></a> </p>
 
--   🔭 I’m currently working on [AP Classroom](https://assignmentb9a12.web.app/)
+-   🔭 I’m currently working on [Fiverr](https://www.fiverr.com/apponislam)
 
--   🌱 I’m currently learning **Ful Stack Web Developer**
+-   🌱 I’m currently learning **Full Stack Web Developer**
 
 -   👯 I’m looking to collaborate on [AP Classroom](https://assignmentb9a12.web.app/)
 
