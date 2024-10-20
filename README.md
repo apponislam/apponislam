@@ -70,6 +70,6 @@
 
 <!-- Responsive second and third items, aligned left and right -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=apponislam&show_icons=true&locale=en" alt="apponislam" style="max-width: 45%; margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=apponislam&show_icons=true&locale=en" alt="apponislam" style="max-width: 45%; margin-right: 10px; margin-bottom: 10px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=apponislam&" alt="apponislam" style="max-width: 45%;" />
 </div>
