@@ -78,14 +78,13 @@
 <br />
 
 <!-- Centered first item -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=apponislam&show_icons=true&locale=en&layout=compact" alt="apponislam" />
-</p>
 
-<!-- Responsive second and third items, aligned left and right -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=apponislam&show_icons=true&locale=en" alt="apponislam" style="max-width: 45%; margin-right: 10px; margin-bottom: 10px" />
-  <img src="https://streak-stats.demolab.com/?user=apponislam" alt="apponislam" style="max-width: 45%;" />
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=apponislam" alt="apponislam" style="max-width: 45%;" /> -->
+### 📊 GitHub Stats:
 
-</div>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=apponislam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=apponislam&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=apponislam&theme=dark&hide_border=false)<br/>
+
+---
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
