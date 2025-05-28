@@ -11,19 +11,21 @@
 
 <p align="left"> <a href="https://twitter.com/appon2003" target="_blank"><img src="https://img.shields.io/twitter/follow/appon2003?logo=twitter&style=for-the-badge" alt="appon2003" /></a> </p>
 
+### Something About me:
+
 -   🔭 I’m currently working on [Fiverr](https://www.fiverr.com/apponislam)
 
--   🌱 I’m currently learning **Full Stack Web Developer**
+-   🌱 I’m currently learning **BSC in CSE**
 
--   👯 I’m looking to collaborate on [AP Classroom](https://assignmentb9a12.web.app/)
+-   👯 I’m looking to collaborate on exciting new full-stack projects.
 
--   🤝 I’m looking for help with [AP Classroom](https://assignmentb9a12.web.app/)
+-   🤝 I’m looking for help with new projects and ideas.
 
 -   👨‍💻 All of my projects are available at [https://www.4ppon.com/](https://www.4ppon.com/)
 
 -   📝 I regularly write articles on [https://www.4ppon.com/](https://www.4ppon.com/)
 
--   💬 Ask me about **HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React JS, Firebase, Node Js, Express Js, MongoDB**
+-   💬 Ask me about **HTML, CSS, JavaScript, TypeScript, Bootstrap, Tailwind CSS, React.js, Next.js, Redux, Firebase, OAuth, Node.js, Express.js, MongoDB, Mongoose, Prisma, SQL, PostgreSQL**
 
 -   📫 How to reach me **11appon11@gmail.com**
 
