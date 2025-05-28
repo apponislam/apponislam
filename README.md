@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/apponislam.png" alt="Appon Islam" style="width: 100%; height: auto; display: block;"/>
+  <img src="./img/Apponislam.png" alt="Appon Islam" style="width: 100%; height: auto; display: block;"/>
 </p>
 <h1 align="center">Hi 👋, I'm Appon Islam</h1>
 <h3 align="center">I am a professional Web Developer.</h3>
