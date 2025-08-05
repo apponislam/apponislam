@@ -2,7 +2,7 @@
   <img src="./img/Apponislam.png" alt="Appon Islam" style="width: 100%; height: auto; display: block;"/>
 </p>
 <h1 align="center">Hi 👋, I'm Appon Islam</h1>
-<h3 align="center">I am a professional Web Developer.</h3>
+<h3 align="center">I am a professional Full Stack Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apponislam&label=Profile%20views&color=0e75b6&style=flat" alt="apponislam" /> </p>
 
@@ -13,7 +13,7 @@
 
 ### Something About me:
 
--   🔭 I’m currently working on [Fiverr](https://www.fiverr.com/apponislam)
+-   🔭 I’m currently working on [SparkTech Agency](https://www.sparktech.agency/)
 
 -   🌱 I’m currently learning **BSC in CSE**
 
@@ -79,10 +79,18 @@
 
 <!-- Centered first item -->
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
+
+#### 🔤 Top Languages
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=apponislam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+
+#### 📊 GitHub Overview
+
 ![](https://github-readme-stats.vercel.app/api?username=apponislam&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+#### 🔥 Contribution Streak
+
 ![](https://nirzak-streak-stats.vercel.app/?user=apponislam&theme=dark&hide_border=false)<br/>
 
 ---
