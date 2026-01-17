@@ -10,10 +10,7 @@
 <!-- <p align="center"> <a href="https://github.com/apponislam/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apponislam&row=1&column=6&theme=onedark" alt="apponislam" /></a> </p> -->
 <p align="center">
   <a href="https://github.com/apponislam">
-    <img
-      src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=apponislam&layout=compact&theme=radical"
-      alt="Top Languages"
-    />
+    <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=apponislam&theme=onedark" alt="GitHub Trophies" />
   </a>
 </p>
 
