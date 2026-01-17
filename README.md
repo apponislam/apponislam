@@ -104,11 +104,11 @@
 
 ### 📊 GitHub Stats
 
-#### 🔤 Top Languages
+<!-- #### 🔤 Top Languages -->
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=apponislam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
-#### 📊 GitHub Overview
+#### 🔥 GitHub Overview
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=apponislam&show_icons=true&theme=radical" />
@@ -116,7 +116,9 @@
 
 #### 🔥 Contribution Streak
 
-![](https://nirzak-streak-stats.vercel.app/?user=apponislam&theme=dark&hide_border=false)<br/>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=apponislam&theme=dark&hide_border=false" />
+</p><br/>
 
 ---
 
