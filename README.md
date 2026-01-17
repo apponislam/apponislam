@@ -90,7 +90,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="20" />&ensp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="20" />&ensp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="20" />&ensp;
-  <img src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" alt="Mongoose" width="62" />&ensp;
+  <img src="https://cdn.simpleicons.org/mongoose/880000" alt="Mongoose" width="30" />&ensp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="Prisma" width="20" />&ensp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="20" />&ensp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="20" />&ensp;
