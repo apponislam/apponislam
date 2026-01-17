@@ -104,9 +104,12 @@
 
 ### 📊 GitHub Stats
 
-<!-- #### 🔤 Top Languages -->
+#### 🔥 Top Languages
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=apponislam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=apponislam&layout=compact&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+</p>
+<br/>
 
 #### 🔥 GitHub Overview
 
