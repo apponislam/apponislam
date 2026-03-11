@@ -31,15 +31,15 @@
 
 - 🤝 I’m looking for help with new projects and ideas.
 
-- 👨‍💻 All of my projects are available at [https://www.4ppon.com/](https://www.4ppon.com)
+- 👨‍💻 All of my projects are available at [https://www.4ppon.com](https://www.4ppon.com)
 
-- 📝 I regularly write articles on [https://www.4ppon.com/](https://www.4ppon.com)
+- 📝 I regularly write articles on [https://www.4ppon.com](https://www.4ppon.com)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, Bootstrap, Tailwind CSS, React.js, Next.js, Redux, Firebase, OAuth, Node.js, Express.js, MongoDB, Mongoose, Prisma, SQL, PostgreSQL**
 
 - 📫 How to reach me **11appon11@gmail.com**
 
-- 📄 Know about my experiences [https://www.4ppon.com/](https://www.4ppon.com/)
+- 📄 Know about my experiences [https://www.4ppon.com](https://www.4ppon.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -97,8 +97,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="20" />&ensp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="20" />&ensp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="20" />&ensp;
-  <img src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" alt="GitHub" width="20" />
+  <img src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" alt="GitHub" width="20" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="20" alt="Socket.IO" />&ensp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20" alt="Docker" />&ensp;
+<img src="https://cdn.simpleicons.org/jsonwebtokens" width="20" alt="JWT" />&ensp;
+<img src="https://cdn.simpleicons.org/postman" width="20" alt="Postman" />&ensp;
 </p>
+
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="20" alt="Redis" />&ensp; -->
 
 <br />
 
