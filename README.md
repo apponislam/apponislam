@@ -16,19 +16,9 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/appon2003" target="_blank"><img src="https://img.shields.io/twitter/follow/appon2003?logo=twitter&style=for-the-badge" alt="appon2003" /></a> </p> -->
 <p align="left">
-
-<a href="https://twitter.com/appon2003" target="_blank" style="text-decoration:none;">
-<img src="https://img.shields.io/twitter/follow/appon2003?logo=twitter&style=for-the-badge" alt="Twitter" />
-</a>
-
-<a href="https://facebook.com/appon19" target="_blank" style="text-decoration:none;">
-<img src="https://img.shields.io/badge/Facebook-Follow-blue?logo=facebook&style=for-the-badge" alt="Facebook" />
-</a>
-
-<a href="https://linkedin.com/in/apponislam" target="_blank" style="text-decoration:none;">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
-</a>
-
+<a href="https://twitter.com/appon2003" target="_blank"><img src="https://img.shields.io/twitter/follow/appon2003?logo=twitter&style=for-the-badge" alt="Twitter"/></a>
+<a href="https://facebook.com/appon19" target="_blank"><img src="https://img.shields.io/badge/Facebook-Follow-blue?logo=facebook&style=for-the-badge" alt="Facebook"/></a>
+<a href="https://linkedin.com/in/apponislam" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/></a>
 </p>
 
 ### Something About me:
@@ -41,9 +31,9 @@
 
 - 🤝 I’m looking for help with new projects and ideas.
 
-- 👨‍💻 All of my projects are available at [https://www.4ppon.com/](https://www.4ppon.com/)
+- 👨‍💻 All of my projects are available at [https://www.4ppon.com/](https://www.4ppon.com)
 
-- 📝 I regularly write articles on [https://www.4ppon.com/](https://www.4ppon.com/)
+- 📝 I regularly write articles on [https://www.4ppon.com/](https://www.4ppon.com)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, Bootstrap, Tailwind CSS, React.js, Next.js, Redux, Firebase, OAuth, Node.js, Express.js, MongoDB, Mongoose, Prisma, SQL, PostgreSQL**
 
