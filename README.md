@@ -17,13 +17,52 @@ I build scalable full-stack web apps with React, Next.js & Node.js
 </p>
 
 <!-- <p align="left"> <a href="https://twitter.com/appon2003" target="_blank"><img src="https://img.shields.io/twitter/follow/appon2003?logo=twitter&style=for-the-badge" alt="appon2003" /></a> </p> -->
-<p align="left">
+
+<!-- <p align="left">
 <a href="https://linkedin.com/in/apponislam" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/></a>
 <a href="https://wa.me/+8801722779803" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 <a href="https://twitter.com/appon2003" target="_blank"><img src="https://img.shields.io/twitter/follow/appon2003?logo=twitter&style=for-the-badge" alt="Twitter"/></a>
 <a href="https://facebook.com/appon19" target="_blank"><img src="https://img.shields.io/badge/Facebook-Follow-blue?logo=facebook&style=for-the-badge" alt="Facebook"/></a>
+</p> -->
+
+<p align="left">
+  <a href="https://linkedin.com/in/apponislam" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://wa.me/+8801722779803" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+
+  <a href="https://fb.com/appon19" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+
+  <a href="https://twitter.com/appon2003" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+
+  <a href="https://codepen.io/apponislam" target="_blank">
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
+  </a>
+
+  <a href="https://dev.to/apponislam" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
+  </a>
+
+  <a href="https://stackoverflow.com/users/12827252/appon-islam" target="_blank">
+    <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+  </a>
+
+  <a href="https://codesandbox.com/apponislam" target="_blank">
+    <img src="https://img.shields.io/badge/CodeSandbox-151515?style=for-the-badge&logo=codesandbox&logoColor=white"/>
+  </a>
+
+  <a href="https://instagram.com/apponislam" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 ### Something About me:
@@ -58,11 +97,15 @@ I build scalable full-stack web apps with React, Next.js & Node.js
 <a href="https://www.behance.net/apponislam" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="apponislam" height="30" width="40" /></a>
 </p> -->
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 
 <p align="left">
   <a href="https://linkedin.com/in/apponislam" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://wa.me/+8801722779803" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 
   <a href="https://fb.com/appon19" target="_blank">
@@ -92,7 +135,7 @@ I build scalable full-stack web apps with React, Next.js & Node.js
   <a href="https://instagram.com/apponislam" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-</p>
+</p> -->
 
 ### Languages and Tools:
 
