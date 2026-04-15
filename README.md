@@ -2,7 +2,9 @@
   <img src="./img/Apponislam.png" alt="Appon Islam" style="width: 100%; height: auto; display: block;"/>
 </p>
 <h1 align="center">Hi 👋, I'm Appon Islam</h1>
-<h3 align="center">I am a professional Full Stack Developer.</h3>
+<h3 align="center">
+I build scalable full-stack web apps with React, Next.js & Node.js
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apponislam&label=Profile%20views&color=0e75b6&style=flat" alt="apponislam" /> </p>
 
