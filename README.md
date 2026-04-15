@@ -16,9 +16,12 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/appon2003" target="_blank"><img src="https://img.shields.io/twitter/follow/appon2003?logo=twitter&style=for-the-badge" alt="appon2003" /></a> </p> -->
 <p align="left">
+<a href="https://linkedin.com/in/apponislam" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/></a>
+<a href="https://wa.me/+8801722779803" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
 <a href="https://twitter.com/appon2003" target="_blank"><img src="https://img.shields.io/twitter/follow/appon2003?logo=twitter&style=for-the-badge" alt="Twitter"/></a>
 <a href="https://facebook.com/appon19" target="_blank"><img src="https://img.shields.io/badge/Facebook-Follow-blue?logo=facebook&style=for-the-badge" alt="Facebook"/></a>
-<a href="https://linkedin.com/in/apponislam" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/></a>
 </p>
 
 ### Something About me:
