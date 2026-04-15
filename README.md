@@ -71,6 +71,14 @@ I build scalable full-stack web apps with React, Next.js & Node.js
 - 📫 How to reach me **11appon11@gmail.com**
 
 - 📄 Know about my experiences [https://www.4ppon.com](https://www.4ppon.com)
+- 🎯 Focused on building scalable full-stack applications with modern technologies
+- ⚙️ Strong interest in backend architecture, APIs & real-time systems
+- 📚 Continuously learning system design and advanced JavaScript concepts
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Currently%20Working-SparkTech%20Agency-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Learning-BSc%20in%20CSE-orange?style=for-the-badge"/>
+</p>
 
 ### Languages and Tools:
 
@@ -130,5 +138,17 @@ I build scalable full-stack web apps with React, Next.js & Node.js
 <p align="center">
   <img src="https://streak-stats.vercel.app/?user=apponislam&theme=dark&hide_border=false" />
 </p><br/>
+
+<!-- <p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p> -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=apponislam&theme=radical"/>
+</p>
 
 <!-- --- -->
