@@ -69,7 +69,7 @@ I build scalable full-stack web apps with React, Next.js & Node.js
 
 - 🔭 I’m currently working on [SparkTech Agency](https://www.sparktech.agency/)
 
-- 🌱 I’m currently learning **BSC in CSE**
+- 🌱 Pursuing **BSc in CSE** while building scalable real-world applications
 
 - 👯 I’m looking to collaborate on exciting new full-stack projects.
 
