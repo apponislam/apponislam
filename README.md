@@ -147,8 +147,12 @@ I build scalable full-stack web apps with React, Next.js & Node.js
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=apponislam&theme=radical"/>
-</p>
+</p> -->
+
+<!-- <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apponislam&theme=radical"/>
+</p> -->
 
 <!-- --- -->
