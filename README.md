@@ -62,6 +62,16 @@ I build scalable full-stack web apps with React, Next.js & Node.js
 
 <br />
 
+### 💼 Experience
+
+**Full-Stack Developer — SparkTech Agency** (August 2024 — Present)
+
+- Developed and maintained scalable web applications using React, Next.js, Node.js, and TypeScript.
+- Built RESTful APIs and integrated PostgreSQL and MongoDB for efficient data management.
+- Optimized frontend and backend performance, reducing application load times and improving user experience.
+- Collaborated with cross-functional teams to deliver production-ready features and resolve technical issues.
+- Implemented secure authentication, authorization, and payment integrations using industry best practices.
+
 ### 📊 GitHub Stats
 
 #### 🔥 Top Languages
