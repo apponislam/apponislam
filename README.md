@@ -66,11 +66,13 @@ I build scalable full-stack web apps with React, Next.js & Node.js
 
 **Full-Stack Developer — SparkTech Agency** (August 2024 — Present)
 
-- Developed and maintained scalable web applications using React, Next.js, Node.js, and TypeScript.
-- Built RESTful APIs and integrated PostgreSQL and MongoDB for efficient data management.
-- Optimized frontend and backend performance, reducing application load times and improving user experience.
-- Collaborated with cross-functional teams to deliver production-ready features and resolve technical issues.
-- Implemented secure authentication, authorization, and payment integrations using industry best practices.
+- Developed and maintained scalable, high-performance web applications using React, Next.js, Node.js, and TypeScript.
+- Designed and implemented robust RESTful and GraphQL APIs with optimized database queries in PostgreSQL and MongoDB.
+- Optimized frontend and backend performance, reducing application initial load times and enhancing user experience (UX).
+- Integrated third-party APIs, including Stripe payment gateways, OAuth providers, and automated email/SMS services.
+- Implemented real-time communication systems using Socket.io for messaging and dynamic updates.
+- Wrote clean, modular, and reusable code adhering to clean architecture principles and participating in active peer code reviews.
+- Configured CI/CD pipelines and containerized applications using Docker to streamline production deployments.
 
 ### 🎓 Education
 
