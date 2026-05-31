@@ -78,15 +78,15 @@ I build scalable full-stack web apps with React, Next.js & Node.js
 
 **B.Sc. in Computer Science & Engineering — Northern University Bangladesh** (2025 — Present)
 
-- Pursuing a Bachelor of Science in Computer Science and Engineering.
-- Studying advanced topics including Algorithms, Software Architecture, System Design, and Database Systems.
-- Strengthening expertise in software development, problem-solving, and modern computing technologies.
+- Deepening knowledge in core computer science fields including Advanced Data Structures, Analysis of Algorithms, Object-Oriented Programming (OOP), and Database Management Systems (DBMS).
+- Actively building full-stack academic projects, applying software architecture principles, design patterns, and systems engineering.
+- Strengthening expertise in problem-solving, backend system architectures, and modern web application development.
 
 **Diploma in Computer Technology — Dinajpur Polytechnic Institute** (2020 — 2024)
 
-- Graduated with a specialization in Computer Technology, Network Administration, and Software Engineering fundamentals.
-- Developed practical projects involving system administration, database design, and full-stack software development.
-- Built a strong foundation in programming, networking, database management, and software engineering principles.
+- Graduated with specialized knowledge in Software Development, Computer Networks, Operating Systems, and Database Management.
+- Built hands-on desktop and web-based applications for semester capstone projects, implementing relational database designs.
+- Developed a strong understanding of computer hardware architecture, network administration, and basic algorithms.
 
 ### 📊 GitHub Stats
 
