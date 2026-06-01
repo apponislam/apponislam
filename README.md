@@ -88,6 +88,12 @@ I build scalable full-stack web apps with React, Next.js & Node.js
 - Built hands-on desktop and web-based applications for semester capstone projects, implementing relational database designs.
 - Developed a strong understanding of computer hardware architecture, network administration, and basic algorithms.
 
+
+### 🏆 Certifications
+
+- **Full Stack Developer** — Programming Hero (06/2025)
+- **Jr MERN Stack Developer** — Programming Hero (06/2024)
+
 ### 📊 GitHub Stats
 
 #### 🔥 Top Languages
