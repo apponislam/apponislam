@@ -120,3 +120,11 @@ I build scalable full-stack web apps with React, Next.js & Node.js
 <p align="center">
   <img src="https://streak-stats.vercel.app/?user=apponislam&theme=dark&hide_border=false" />
 </p><br/>
+
+---
+
+<h3 align="center">Thanks for visiting!</h3>
+
+<p align="center">⭐ If you like my work, consider starring my repositories.</p>
+
+<p align="center">Happy Coding ❤️</p>
