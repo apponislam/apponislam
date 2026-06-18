@@ -20,7 +20,7 @@ I build scalable full-stack web apps with React, Next.js & Node.js
   </a>
 
   <a href="https://wa.me/+8801722779803" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 
   <a href="https://fb.com/appon19" target="_blank">
@@ -68,16 +68,23 @@ I build scalable full-stack web apps with React, Next.js & Node.js
 
 - 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, Bootstrap, Tailwind CSS, React.js, Next.js, Redux, Firebase, OAuth, Node.js, Express.js, MongoDB, Mongoose, Prisma, SQL, PostgreSQL**
 
-- 📫 How to reach me **11appon11@gmail.com**
+- 📫 How to reach me at **[11appon11@gmail.com](mailto:11appon11@gmail.com)**
 
 - 📄 Know about my experiences [https://www.4ppon.com](https://www.4ppon.com)
+
 - 🎯 Focused on building scalable full-stack applications with modern technologies
+
 - ⚙️ Strong interest in backend architecture, APIs & real-time systems
+
 - 📚 Continuously learning system design and advanced JavaScript concepts
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Currently%20Working-SparkTech%20Agency-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Enrolled-BSc%20in%20CSE%20at%20NUB-orange?style=for-the-badge"/>
+  <a href="https://www.sparktech.agency/" target="_blank">
+    <img src="https://img.shields.io/badge/Currently%20Working-SparkTech%20Agency-blue?style=for-the-badge"/>
+  </a>
+  <a href="https://nub.ac.bd/" target="_blank">
+    <img src="https://img.shields.io/badge/Enrolled-BSc%20in%20CSE%20at%20NUB-orange?style=for-the-badge"/>
+  </a>
 </p>
 
 ### Languages and Tools:
@@ -97,20 +104,19 @@ I build scalable full-stack web apps with React, Next.js & Node.js
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="20" />&ensp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="20" />&ensp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="20" />&ensp;
-  <img src="https://cdn.simpleicons.org/mongoose" width="36" alt="Mongoose.js" />&ensp;
+  <img src="https://cdn.simpleicons.org/mongoose" width="20" alt="Mongoose.js" />&ensp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="Prisma" width="20" />&ensp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="20" />&ensp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="20" />&ensp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="20" />&ensp;
-  <img src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" alt="GitHub" width="20" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="20" alt="Socket.IO" />&ensp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20" alt="Docker" />&ensp;
-<img src="https://cdn.simpleicons.org/jsonwebtokens" width="20" alt="JWT" />&ensp;
-<img src="https://cdn.simpleicons.org/postman" width="20" alt="Postman" />&ensp;
+  <img src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" alt="GitHub" width="20" />&ensp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="20" alt="Socket.IO" />&ensp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20" alt="Docker" />&ensp;
+  <img src="https://cdn.simpleicons.org/jsonwebtokens" width="20" alt="JWT" />&ensp;
+  <img src="https://cdn.simpleicons.org/postman" width="20" alt="Postman" />&ensp;
 </p>
 
 <br />
-
-<!-- Centered first item -->
 
 ### 📊 GitHub Stats
 
