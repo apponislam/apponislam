@@ -56,7 +56,7 @@ I build scalable full-stack web apps with React, Next.js & Node.js
 
 - 🔭 I’m currently working on [SparkTech Agency](https://www.sparktech.agency/)
 
-- 🌱 Pursuing **BSc in CSE** while building scalable real-world applications
+- 🌱 Currently enrolled in **BSc in CSE** at **[Northern University Bangladesh (NUB)](https://nub.ac.bd/)**
 
 - 👯 I’m looking to collaborate on exciting new full-stack projects.
 
@@ -77,7 +77,7 @@ I build scalable full-stack web apps with React, Next.js & Node.js
 
 <p align="center">
   <img src="https://img.shields.io/badge/Currently%20Working-SparkTech%20Agency-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Learning-BSc%20in%20CSE-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Enrolled-BSc%20in%20CSE%20at%20NUB-orange?style=for-the-badge"/>
 </p>
 
 ### Languages and Tools:
