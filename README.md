@@ -138,21 +138,3 @@ I build scalable full-stack web apps with React, Next.js & Node.js
 <p align="center">
   <img src="https://streak-stats.vercel.app/?user=apponislam&theme=dark&hide_border=false" />
 </p><br/>
-
-<!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p> -->
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=apponislam&theme=radical"/>
-</p> -->
-
-<!-- <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apponislam&theme=radical"/>
-</p> -->
-
-<!-- --- -->
