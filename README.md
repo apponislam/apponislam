@@ -7,7 +7,7 @@ I build scalable full-stack web apps with React, Next.js & Node.js
 </h3> -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=I+build+scalable+full-stack+web+apps...;...with+React%2C+Next.js+%26+Node.js" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Building+Scalable+Web+Apps;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js;Turning+Ideas+into+Reality" alt="Typing SVG" />
   </a>
 </p>
 
