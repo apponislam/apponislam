@@ -59,23 +59,23 @@ I build scalable full-stack web apps with React, Next.js & Node.js
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on [SparkTech Agency](https://www.sparktech.agency/)
+- 🔭 I’m currently working on [SparkTech Agency](https://www.sparktech.agency)
 
-- 🌱 Currently enrolled in **BSc in CSE** at **[Northern University Bangladesh (NUB)](https://nub.ac.bd/)**
+- 🌱 Currently enrolled in **BSc in CSE** at **[Northern University Bangladesh (NUB)](https://nub.ac.bd)**
 
 - 👯 I’m looking to collaborate on exciting new full-stack projects.
 
 - 🤝 I’m looking for help with new projects and ideas.
 
-- 👨‍💻 All of my projects are available at [https://www.4ppon.com](https://www.4ppon.com)
+- 👨‍💻 All of my projects are available at [https://www.apponislam.top](https://www.apponislam.top)
 
-- 📝 I regularly write articles on [https://www.4ppon.com](https://www.4ppon.com)
+- 📝 I regularly write articles on [https://www.apponislam.top](https://www.apponislam.top)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, Bootstrap, Tailwind CSS, React.js, Next.js, Redux, Firebase, OAuth, Node.js, Express.js, MongoDB, Mongoose, Prisma, SQL, PostgreSQL**
 
 - 📫 How to reach me at **[11appon11@gmail.com](mailto:11appon11@gmail.com)**
 
-- 📄 Know about my experiences [https://www.4ppon.com](https://www.4ppon.com)
+- 📄 Know about my experiences [https://www.apponislam.top](https://www.apponislam.top)
 
 - 🎯 Focused on building scalable full-stack applications with modern technologies
 
