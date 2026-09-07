@@ -109,11 +109,11 @@ I build scalable full-stack web apps with React, Next.js & Node.js
   <img src="https://github-readme-stats-fast.vercel.app/api?username=apponislam&show_icons=true&theme=radical" />
 </p><br/>
 
-#### 📈 Activity & Contributions
+<!-- #### 📈 Activity & Contributions
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=apponislam&theme=github-dark"/>
-</p>
+</p> -->
 
 #### 🔥 Contribution Streak
 
