@@ -31,15 +31,15 @@ I build scalable full-stack web apps with React, Next.js & Node.js
 
 - 🤝 I’m looking for help with new projects and ideas.
 
-- 👨‍💻 All of my projects are available at [https://www.apponislam.top](https://www.apponislam.top)
+- 👨‍💻 All of my projects are available at [https://www.apponislam.com](https://www.apponislam.com)
 
-- 📝 I regularly write articles on [https://www.apponislam.top](https://www.apponislam.top)
+- 📝 I regularly write articles on [https://www.apponislam.com](https://www.apponislam.com)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, Bootstrap, Tailwind CSS, React.js, Next.js, Redux, Firebase, OAuth, Node.js, Express.js, MongoDB, Mongoose, Prisma, SQL, PostgreSQL**
 
-- 📫 How to reach me at **[11appon11@gmail.com](mailto:11appon11@gmail.com)**
+- 📫 How to reach me at **[11appon11@gmail.com](mailto:11appon11@gmail.com)** / **[apponislamdev@gmail.com](mailto:apponislamdev@gmail.com)**
 
-- 📄 Know about my experiences [https://www.apponislam.top](https://www.apponislam.top)
+- 📄 Know about my experiences [https://www.apponislam.com](https://www.apponislam.com)
 
 - 🎯 Focused on building scalable full-stack applications with modern technologies
 
