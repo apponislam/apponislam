@@ -13,7 +13,7 @@ I build scalable full-stack web apps with React, Next.js & Node.js
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=apponislam&label=Profile%20views&color=0e75b6&style=flat" alt="apponislam" /> </p> -->
 <p align="center">
-  <img src="https://hits.seeyoufarm.dev/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fapponislam&count_bg=%230E75B6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+views&edge_flat=false" alt="Profile Views"/>
+  <img src="https://mojo-count.vercel.app/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fapponislam%2Fapponislam&count_bg=%230E75B6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+views&edge_flat=false" alt="Profile Views"/>
 </p>
 
 <p align="center">
