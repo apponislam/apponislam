@@ -11,10 +11,10 @@ I build scalable full-stack web apps with React, Next.js & Node.js
   </a>
 </p>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=apponislam&label=Profile%20views&color=0e75b6&style=flat" alt="apponislam" /> </p> -->
-<p align="center">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=apponislam&label=Profile%20views&color=0e75b6&style=flat" alt="apponislam" /> </p>
+<!-- <p align="center">
   <img src="https://profile-counter.glitch.me/apponislam/count.svg" alt="Profile Views"/>
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://github.com/apponislam">
@@ -67,7 +67,7 @@ I build scalable full-stack web apps with React, Next.js & Node.js
 
 ### 💼 Experience
 
-**Full-Stack Developer — SparkTech Agency** (August 2024 — Present)
+**Full-Stack Developer — SparkTech Agency** (August 2025 — Present)
 
 - Developed and maintained scalable, high-performance web applications using React, Next.js, Node.js, and TypeScript.
 - Designed and implemented robust RESTful and GraphQL APIs with optimized database queries in PostgreSQL and MongoDB.
@@ -90,7 +90,6 @@ I build scalable full-stack web apps with React, Next.js & Node.js
 - Graduated with specialized knowledge in Software Development, Computer Networks, Operating Systems, and Database Management.
 - Built hands-on desktop and web-based applications for semester capstone projects, implementing relational database designs.
 - Developed a strong understanding of computer hardware architecture, network administration, and basic algorithms.
-
 
 ### 🏆 Certifications
 
