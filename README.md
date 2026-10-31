@@ -102,7 +102,8 @@ I build scalable full-stack web apps with React, Next.js & Node.js
 
 <p align="center">
   <!-- <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=apponislam&layout=compact&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /> -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=apponislam&theme=radical" alt="Top languages" />
+  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=apponislam&theme=radical" alt="Top languages" /> -->
+  <img src="https://readme-stats-github.pages.dev/api/top-langs?username=apponislam&theme=dark" alt="Top languages" />
 </p>
 <br/>
 
@@ -110,7 +111,8 @@ I build scalable full-stack web apps with React, Next.js & Node.js
 
 <p align="center">
   <!-- <img src="https://github-readme-stats-fast.vercel.app/api?username=apponislam&show_icons=true&theme=radical" /> -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=apponislam&theme=radical" alt="GitHub stats" />
+  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=apponislam&theme=radical" alt="GitHub stats" /> -->
+  <img src="https://readme-stats-github.pages.dev/api?username=apponislam&theme=dark" alt="GitHub stats" />
 </p><br/>
 
 <!-- #### 📈 Activity & Contributions
