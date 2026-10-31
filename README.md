@@ -101,14 +101,16 @@ I build scalable full-stack web apps with React, Next.js & Node.js
 #### 🔥 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=apponislam&layout=compact&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <!-- <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=apponislam&layout=compact&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /> -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=apponislam&theme=radical" alt="Top languages" />
 </p>
 <br/>
 
 #### 🔥 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=apponislam&show_icons=true&theme=radical" />
+  <!-- <img src="https://github-readme-stats-fast.vercel.app/api?username=apponislam&show_icons=true&theme=radical" /> -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=apponislam&theme=radical" alt="GitHub stats" />
 </p><br/>
 
 <!-- #### 📈 Activity & Contributions
