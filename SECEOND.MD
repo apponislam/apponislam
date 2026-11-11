@@ -79,7 +79,9 @@ Actively practicing problem solving, data structures, and algorithms across comp
 <hr>
 
 <p align="center">
-  <img src="https://streak-stats.vercel.app/?user=apponislam&theme=dark&hide_border=false" alt="Streak Stats" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=apponislam&layout=compact&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /> <br>
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=apponislam&show_icons=true&theme=radical" />
+    <img src="https://streak-stats.vercel.app/?user=apponislam&theme=dark&hide_border=false" alt="Streak Stats" />
 </p>
 
 <br>
